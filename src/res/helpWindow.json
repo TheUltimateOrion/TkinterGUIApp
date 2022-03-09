@@ -1,0 +1,8 @@
+{
+  "Text": "This is a calculator demo to test the python built in gui framework Tkinter",
+  "Icon": {
+    "url": "res/helpicon.png",
+    "size": [50, 50]
+  },
+  "Buttons": ["Close"]
+}
